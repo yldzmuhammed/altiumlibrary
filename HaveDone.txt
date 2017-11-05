@@ -1,0 +1,19 @@
+[03.11.2017]
+- CMWX1ZZABZ-078 þematik ve pcb dosyalarý eklendi.
+- MPL3115A2 þematik ve pcb dosyalarý eklendi.
+- MMA8451Q þematik ve pcb dosyalarý eklendi.
+- MAG3110 þematik ve pcb dosyalarý eklendi.
+- MAX11613EWC þematik ve pcb dosyalarý eklendi.
+- 
+[25.09.2017]
+- STM32L052K8U þematik ve pcb dosyalarý eklendi.
+[23.09.2017]
+- RE866 þematik ve pcb dosyalarý eklendi.
+[10.09.2017]
+- iM880B-L þematik ve pcb dosyalarý eklendi.
+
+[18.03.2016]
+- STM32F7 þematik ve pcb dosyalarý eklendi.
+
+[20.06.2016]
+- CC2640 eklendi.

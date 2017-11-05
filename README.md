@@ -1,0 +1,2 @@
+# altiumlibrary
+Kullandığım altium kütüphaneleri
